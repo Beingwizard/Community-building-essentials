@@ -1,4 +1,4 @@
-# Tuilizing LinkedIn at it's best :) 
+# Utilizing LinkedIn at it's best :) 
 
 Crafting a LinkedIn Profile is Sort of an Art 🎨 which requires minimal effort but all these have to be in place at the right time.
 
