@@ -15,6 +15,8 @@ When you look at a post, add your thoughts into the comment section. This way yo
 Don't just repost, your connections don't really know the author, they know *you*. Become a source of information, and if you add your own thoughts and then repost, your connections can connect more with you.
 
 Check this example - https://www.linkedin.com/posts/maheshma_systemdesign-engineering-productdevelopment-activity-7320257760388907010-8_fT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk
+
+
 <img width="413" alt="image" src="https://github.com/user-attachments/assets/8bd1a45b-10ba-409b-8bc3-6a3f408e680f" />
 
 
@@ -25,6 +27,8 @@ Check this example - https://www.linkedin.com/posts/maheshma_systemdesign-engine
 This is so important. Now what to have in a banner?  
 The easiest — the tools & technologies you regularly work with (logos).  
 Search "LinkedIn Banner" in **Canva** and use any free template.
+
+
 
 <img width="647" alt="image" src="https://github.com/user-attachments/assets/a37a90df-3636-4f91-ba07-d5f66749bfa0" />
 
@@ -63,6 +67,8 @@ Look at the leaders on LinkedIn with legitimate content and good following, foll
 
 If you're sharing a blog (external) or writing one over LinkedIn, it's important to have an **illustration**.  
 Text is boring, so make sure you take people to that text part — and for this, you'll have to make an interesting illustration (architecture diagrams, GIFs, etc.)
+
+
 <img width="313" alt="image" src="https://github.com/user-attachments/assets/9ceeb533-a0c9-4e66-9b90-6947ebbac9d0" />
 
 
