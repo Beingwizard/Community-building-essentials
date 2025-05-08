@@ -12,7 +12,7 @@ Your job is already giving you content ideas—you just need to spot them.
 Now here’s the kicker: **you’re not the only one who’ll face this.** So why not write a short blog post or LinkedIn article about it?
 
 > Don’t overthink: even “small” bugs can teach big lessons.
-> Did you know a lot of folks *still* don’t know what “eMeet” means on a meeting invite?
+> Did you know a lot of folks *still* don’t know what “Emmet” is in HTML!!
 
 ---
 
