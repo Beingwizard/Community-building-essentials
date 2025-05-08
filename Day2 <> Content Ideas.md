@@ -1,4 +1,4 @@
-H## 🚀 Content Ideas to Stay Consistent (and Valuable!)
+## 🚀 Content Ideas to Stay Consistent (and Valuable!)
 
 Consistency is key when you're building your personal brand or community. But consistency doesn’t mean posting every day—it means showing up with *value*. Here are some content strategies to help you stay consistent without burning out:
 
