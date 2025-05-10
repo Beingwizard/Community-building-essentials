@@ -1,4 +1,5 @@
-## Open-source contributions
+## Open-source community stuff
+
 ---
 
 **Contributing to Open Source isn’t as tough as it seems.**
@@ -7,9 +8,8 @@ Most people hesitate because:
 🔸 *“What if my contribution isn’t accepted?”*
 🔸 *“Where do I even start?”*
 🔸 *“How do I navigate all the resources?”*
-🔸 *“Is it only for experts?”*
 
-Truth is—**open source is for everyone**.
+The truth? **Open Source is built by people like you.**
 
 Let’s break it down 👇
 
@@ -17,67 +17,78 @@ Let’s break it down 👇
 
 ### ✅ Step 1: Learn *how* to contribute
 
-Don’t reinvent the wheel—start here:
-📘 [opensource.guide/how-to-contribute](https://opensource.guide/how-to-contribute/)
+No need to start blind. This guide gives a step-by-step walkthrough:
+📘 [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
 
 ---
 
 ### 💡 Did you know Microsoft runs its own Open Source ecosystem?
 
-Yes! Anyone—yes, YOU—can:
+Anyone can:
 🔹 Contribute to real-world codebases
-🔹 Create demos & sample apps
-🔹 Share resources with the community
+🔹 Create sample apps and demos
+🔹 Share learning resources
 
-Check out:
-🌐 [opensource.microsoft.com](https://opensource.microsoft.com)
-
----
-
-### 💻 What can you contribute in?
-
-There’s something for everyone—whether you write in:
-C#, C++, Go, Java, JS, PowerShell, Python, Ruby, Rust, Shell, TypeScript...
-You name it.
+Start here:
+🌐 [https://opensource.microsoft.com](https://opensource.microsoft.com)
 
 ---
 
-### 🛠 Microsoft’s Open Source Program
+### 💻 Language Support?
 
-They’re not just “using” open source. They’re building, maintaining, and supporting it actively.
+You can contribute using **C#, C++, Go, Java, JS, PowerShell, Python, Ruby, Rust, Shell, TypeScript**, and more.
 
-Learn more about their approach:
-🔗 [opensource.microsoft.com/program](https://opensource.microsoft.com/program/)
+---
 
-Use their tools to build your own community efforts:
-🔧 [Program Tools](https://opensource.microsoft.com/program/#program-tools)
+### 🛠 Understand the Microsoft Open Source Program
+
+Microsoft makes it easy to:
+✅ Contribute
+✅ Work in the open
+✅ Respect licensing
+✅ Use tools securely
+
+More here:
+🔗 [https://opensource.microsoft.com/program/](https://opensource.microsoft.com/program/)
+🛠 [Program Tools](https://opensource.microsoft.com/program/#program-tools)
 
 ---
 
 ### 🔍 Looking for beginner-friendly projects?
 
-Microsoft maintains thousands of GitHub repositories.
-You’ll find:
-🔸 SDKs
-🔸 Full sample projects
-🔸 Good First Issues
-🔸 Entire products maintained in the open
-
-Start here:
-📁 [opensource.microsoft.com/collaborate](https://opensource.microsoft.com/collaborate/)
+Search or filter through thousands of GitHub repositories and "Good First Issues":
+📁 [https://opensource.microsoft.com/collaborate/](https://opensource.microsoft.com/collaborate/)
 
 ---
 
-### 🌍 Join the Ecosystem
+### 🔄 Still unsure where to begin?
 
-Contribute to what powers the world—cloud tools, AI kits, developer SDKs, infra scripts, and so much more.
+Try these community-curated platforms to discover beginner-friendly OSS projects:
 
-Get inspired here:
-🚀 [opensource.microsoft.com/ecosystem](https://opensource.microsoft.com/ecosystem/)
+🧭 [GitHub Explore](https://github.com/explore)
+📅 [Open Source Friday](https://opensourcefriday.com/)
+🌱 [First Timers Only](https://www.firsttimersonly.com/)
+📬 [CodeTriage](https://www.codetriage.com/)
+🎁 [24 Pull Requests](https://24pullrequests.com/)
+🔖 [Up For Grabs](https://up-for-grabs.net/)
+🚀 [First Contributions](https://firstcontributions.github.io/)
+📚 [SourceSort](https://www.sourcesort.com/)
+🍕 [OpenSauced](https://opensauced.pizza/)
+
+---
+
+### 🌍 Be part of the ecosystem
+
+Microsoft and the wider open-source world thrive on contributions—from fixing typos to building SDKs.
+
+🧵 It’s your turn to build in the open:
+📎 [https://opensource.microsoft.com/ecosystem/](https://opensource.microsoft.com/ecosystem/)
 
 ---
 
 **TL;DR**
-You don’t need to be a pro to contribute to Open Source.
-Start small, be consistent, and grow with the community.
-🌱 Your contributions matter.
+Open Source = Learn, Build, Connect, Repeat.
+Don’t wait to be “ready.” Just get started.
+✨ The community is open. So is the source.
+
+---
